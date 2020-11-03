@@ -5,3 +5,4 @@ https://github.com/apereo/cas
 https://www.apereo.org/projects/cas
 https://apereo.github.io/cas/4.2.x/protocol/CAS-Protocol.html
 https://apereo.github.io/cas/4.2.x/planning/Architecture.html
+中文cas安装资料:https://blog.csdn.net/makyan/column/info/36060
